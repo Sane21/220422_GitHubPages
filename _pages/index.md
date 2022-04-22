@@ -1,7 +1,7 @@
 ---
-title: "テストページ 作成サンプル"
-author:ukwhatn
-permalink: /hoge
+title: "ページサンプル"
+author:default
+permalink: /
 ---
 ここに内容を記述する！
 
@@ -29,7 +29,7 @@ KINDAI University, Science and Engineering Department, Informatics class, system
 KINDAI Info-Tech HUB 学生キャプテン  
 Campain  
 
-理工学部同窓会学生部会研究会連絡協議会研究会電子計算機研究会 会長
+理工学部同窓会学生部会研究会連絡協議会研究会電子計算機研究会 会長  
 Riko Doso-kai Gakusei-bu-kai kenkyukai-renrakukyogikai-kenkyukai Computer Study Club, Leader
 
 ### 好物
