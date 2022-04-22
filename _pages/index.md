@@ -1,6 +1,6 @@
 ---
 title: "テストページ 作成サンプル"
-author:Sane21
+author:ukwhatn
 permalink: /hoge
 ---
 ここに内容を記述する！
